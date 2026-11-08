@@ -1,0 +1,12 @@
+node_modules/
+upstream/
+.token-*
+*.tok
+tools/*.pkl
+tools/__pycache__/
+results/
+.token
+bot/.token
+bot/logs/
+.anon.tok
+*.log

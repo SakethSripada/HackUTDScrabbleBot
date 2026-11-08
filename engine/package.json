@@ -1,0 +1,5 @@
+{
+  "name": "scrabble-engine",
+  "private": true,
+  "type": "module"
+}
